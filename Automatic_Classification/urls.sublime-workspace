@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"data",
+				"data_dict"
+			],
+			[
+				"classi",
+				"classified_tweets"
+			],
+			[
+				"cl",
+				"classified_tweets"
+			],
+			[
+				"myd",
+				"mydict1"
+			],
+			[
+				"f",
+				"full_text"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"logout",
+				"logout_view"
+			],
+			[
+				"get",
+				"get_user_model"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"clean",
+				"cleaned_data"
+			],
+			[
 				"c",
 				"color\tproperty"
 			],
@@ -32,37 +80,38 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/index.html",
+			"file": "/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
 			"settings":
 			{
-				"buffer_size": 19928,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/views.py",
-			"settings":
-			{
-				"buffer_size": 476,
+				"buffer_size": 938,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "urls.py",
+			"file": "/C/Users/admin/Desktop/CG/midpt circle.c",
 			"settings":
 			{
-				"buffer_size": 913,
+				"buffer_size": 2002,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.html",
+			"file": "/C/Users/admin/Desktop/CG/suth-hodgeman.c",
 			"settings":
 			{
-				"buffer_size": 2016,
+				"buffer_size": 1256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/admin/Desktop/CG/fractal lines.c",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -97,22 +146,82 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates"
-	],
 	"file_history":
 	[
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/urls.py",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/forms.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/views.py",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.html",
+		"/C/Users/admin/Desktop/CG/Floodfill.c",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/f1.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style1.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-1.html",
 		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/index.html",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/home.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/models.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-10.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-5.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-6.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-7.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-8.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-9.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/checkcsv.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/classification.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-4.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-2.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-3.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/urls.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/data-extraction.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/tweets.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/admin.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/settings.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/migrations/0001_initial.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/test123/migrations/__init__.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/get",
+		"/C/Users/admin/Desktop/CG/fractal lines.c",
+		"/C/Users/admin/Desktop/CG/viewport.c",
+		"/C/Users/admin/Desktop/CG/viewport.txt",
+		"/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
+		"/C/Users/admin/Desktop/CG/Floodfill.cpp",
+		"/C/Users/admin/Desktop/Java-Practice-1/KaratsubaAlgo.java",
+		"/C/Users/admin/Desktop/codezilla/Maths/ArmstrongNo.cpp",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-h.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-l.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-k.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-j.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-i.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-g.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-f.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-e.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-d.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-c.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-b.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-a.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-16.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-15.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-14.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-13.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-12.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-11.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/login.css",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/index.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/forms.py",
+		"/C/Users/admin/Desktop/New folder/tweets.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/tweet_retrieving.py",
+		"/C/Users/admin/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/tweepy/streaming.py",
+		"/C/Users/admin/Desktop/algorithms/algorithms/ml/K_means.py",
+		"/C/Users/admin/Desktop/algorithms/PULL_REQUEST_TEMPLATE.md",
+		"/C/Users/admin/Desktop/K_means.py",
+		"/C/Users/admin/Desktop/algorithms/docs/source/sort.rst",
+		"/C/Users/admin/Desktop/algorithms/CONTRIBUTING.md",
+		"/C/Users/admin/Desktop/algorithms/tests/test_K_means.py",
+		"/C/Users/admin/Desktop/algorithms/tests/test_sort.py",
+		"/C/Users/admin/Desktop/algorithms/tests/test_graph.py",
+		"/C/Users/admin/Desktop/algorithms/README.md",
+		"/C/Users/admin/Desktop/algorithms/tests/test_backtrack.py",
+		"/C/Users/admin/Downloads/First.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/scss/style.scss",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.css",
 		"/C/Users/admin/Desktop/movie_recommendation/movie_recommendation/settings.py",
 		"/C/Users/admin/Desktop/movie_recommendation/webapp/views.py",
 		"/E/Try-Django-master/src/pages/views.py",
@@ -158,6 +267,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rx",
+			"ry",
+			"site-element",
+			"columns small-4 large-3",
+			"()",
+			"async",
+			"wrap-input100 validate-input",
 			"checked",
 			"font-family",
 			"font"
@@ -178,29 +294,59 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/index.html",
+					"file": "/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19928,
+						"buffer_size": 938,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								780,
-								780
+								0,
+								938
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/admin/Desktop/CG/midpt circle.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2002,
+								2002
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -210,89 +356,59 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/views.py",
+					"buffer": 2,
+					"file": "/C/Users/admin/Desktop/CG/suth-hodgeman.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 476,
+						"buffer_size": 1256,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								414,
-								428
+								1256,
+								1256
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/C++/C.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 756.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "urls.py",
+					"buffer": 3,
+					"file": "/C/Users/admin/Desktop/CG/fractal lines.c",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 913,
+						"buffer_size": 1009,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								865,
-								865
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/C++/C.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1620.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/login.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2016,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								145,
-								221
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -375,7 +491,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 192.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
