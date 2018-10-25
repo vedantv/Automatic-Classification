@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"sr",
+				"SR"
+			],
+			[
+				"ser",
+				"SER"
+			],
+			[
+				"er",
+				"ER"
+			],
+			[
+				"title",
+				"titledict"
+			],
+			[
 				"st",
 				"style\tTag"
 			],
@@ -79,42 +95,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
-			"settings":
-			{
-				"buffer_size": 938,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/admin/Desktop/CG/midpt circle.c",
-			"settings":
-			{
-				"buffer_size": 2002,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/admin/Desktop/CG/suth-hodgeman.c",
-			"settings":
-			{
-				"buffer_size": 1256,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/admin/Desktop/CG/fractal lines.c",
-			"settings":
-			{
-				"buffer_size": 1009,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -148,13 +128,23 @@
 	},
 	"file_history":
 	[
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/urls.py",
+		"/C/Users/admin/Desktop/form_validation.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/urls.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/checkcsv.py",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/classification.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/views.py",
-		"/C/Users/admin/Desktop/CG/Floodfill.c",
+		"/C/Users/admin/Desktop/CG/fractal lines.c",
+		"/C/Users/admin/Desktop/CG/suth-hodgeman.c",
+		"/C/Users/admin/Desktop/CG/midpt circle.c",
+		"/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/home.html",
+		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/f1.html",
+		"/C/Users/admin/Desktop/CG/Floodfill.c",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style1.css",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-1.html",
 		"/C/Users/admin/Desktop/movie_recommendation/webapp/templates/pages/index.html",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/home.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/models.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-10.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-5.html",
@@ -162,13 +152,9 @@
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-7.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-8.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-9.html",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/checkcsv.py",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/classification.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-4.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-2.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback-3.html",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/Automatic_Classification/urls.py",
-		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/templates/feedback.html",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/static/css/style.css",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/data-extraction.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/tweets.py",
@@ -177,10 +163,8 @@
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/migrations/0001_initial.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/test123/migrations/__init__.py",
 		"/C/Users/admin/Desktop/Development/trydjango/src/Automatic_Classification/user_profile/get",
-		"/C/Users/admin/Desktop/CG/fractal lines.c",
 		"/C/Users/admin/Desktop/CG/viewport.c",
 		"/C/Users/admin/Desktop/CG/viewport.txt",
-		"/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
 		"/C/Users/admin/Desktop/CG/Floodfill.cpp",
 		"/C/Users/admin/Desktop/Java-Practice-1/KaratsubaAlgo.java",
 		"/C/Users/admin/Desktop/codezilla/Maths/ArmstrongNo.cpp",
@@ -267,6 +251,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mepd",
+			"feedback-2",
+			"feedback-1",
+			"ecor",
+			"feedback-15",
+			"feedbak-15",
 			"rx",
 			"ry",
 			"site-element",
@@ -294,123 +284,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/admin/Desktop/CG/mid-pt ellipse.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 938,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								938
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 270.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/admin/Desktop/CG/midpt circle.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2002,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2002,
-								2002
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/admin/Desktop/CG/suth-hodgeman.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1256,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1256,
-								1256
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 756.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/admin/Desktop/CG/fractal lines.c",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1009,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1620.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

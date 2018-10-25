@@ -17,11 +17,8 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path
-from user_profile.views import (login_view,home_page_view,feedback_view)
+from .views import (feedback_view)
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('login/',login_view,name='login'),
     path('<str:zone>/',feedback_view,name='feedback-1'),
-    path('',home_page_view,name='home_page')
     ]
 
